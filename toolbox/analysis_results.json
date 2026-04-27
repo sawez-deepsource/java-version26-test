@@ -1,0 +1,1 @@
+{"issues":[],"metrics":[],"errors":[{"hmessage":"The provided Java runtime version (26) is unsupported.\n- Java versions 8 to 25 are supported by DeepSource.\n- Refer to the Java analyzer [docs](https://docs.deepsource.com/docs/platform/reference/core-analyzers#java) for more information.","level":0}]}
